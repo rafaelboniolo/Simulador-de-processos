@@ -5,14 +5,11 @@
  */
 package testet;
 
-import java.util.Random;
-import java.util.stream.LongStream;
-
 /**
  *
  * @author ALUNO
  */
-public class TesteT {
+public class Start {
 
     /**
      * @param args the command line arguments
@@ -20,7 +17,7 @@ public class TesteT {
     public static void main(String[] args) {
       
 
-        new NewJFrame().setVisible(true);
+        new Tela().setVisible(true);
     }
     
 }
